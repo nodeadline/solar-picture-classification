@@ -29,6 +29,8 @@ CNN-LSTM.py实现了CNN+LSTM框架下的图像识别模型
 CNN_capsule.py
 Capsule_Keras.py实现了CNN+Capsule框架下的图像识别模型
 
+3、联系邮箱3570993704@qq.com获得太阳射电爆发数据集
+
 
 
 
