@@ -47,7 +47,7 @@ Capsule_Keras.py实现了CNN+Capsule框架下的图像识别模型
 自制数据集只有1型，2型，3型爆发图片：
 https://cloud.189.cn/t/NVv6JbRbYzEf (访问码:q9eg)
 
-
+实验顺利~
 
 
 
